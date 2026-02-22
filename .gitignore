@@ -1,0 +1,14 @@
+# Large data files
+storm_2023.csv.gz
+storm_2022.csv.gz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
